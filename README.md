@@ -5,5 +5,9 @@ A new Flutter project.
 ## Getting Started
 
 ![List items](1.png)
+![Add item](2.PNG)
 
-![Add item](2.png)
+<img src="1.PNG" alt="a" width="200"/>
+
+<img src="2.PNG" alt="a" width="200"/>
+
