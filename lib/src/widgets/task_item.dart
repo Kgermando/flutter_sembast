@@ -39,7 +39,7 @@ class _TaskItemState extends State<TaskItem> {
         margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
         child: CheckboxListTile(
           value: widget.task.done,
-          onChanged: (bool) {},
+          onChanged: _onChangeHandler(widget.task.done),
           title: Text(
             widget.task.name,
             style: _getTaskStyle(),
